@@ -20,7 +20,7 @@
 # Разделы
 
 ##### Подготовка окружения
-- [venv (virtual environment)]()
+- [venv (virtual environment)](Init/venv.md)
 
 ##### Django
 - [Инициализация проекта](Django/1. Инициализация проекта)
