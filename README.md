@@ -1,3 +1,8 @@
+
+# Cheatsheets:
+1. [Django](Django/cheatsheet.md)
+2. [DRF](DRF/cheatsheet.md)
+
 # Материал по обучению
 
 1. Подготовка окружения 
