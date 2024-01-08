@@ -1,7 +1,7 @@
 
 # Cheatsheets:
-1. [Django](Django/cheatsheet.md)
-2. [DRF](DRF/cheatsheet.md)
+1. [Django](django/cheatsheet.md)
+2. [DRF](drf/cheatsheet.md)
 
 # Материал по обучению
 
