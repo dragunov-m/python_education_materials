@@ -17,7 +17,7 @@
 	- Развертка своей API на блоге
 	- Тестирование API через Postman
 4. Docker
-	- Установка [docker](https://docs.docker.com/engine/install/ubuntu/) / [docker-compose](https://docs.docker.com/compose/install/standalone/) (всё это для Ubuntu, [если возникают проблемы с допуском в docker / docker-compose](https://docs.docker.com/engine/install/linux-postinstall/))
+	- Установка [docker](https://docs.docker.com/engine/install/ubuntu/) / [docker-compose](https://docs.docker.com/compose/install/linux/) (всё это для Ubuntu, [если возникают проблемы с допуском в docker / docker-compose](https://docs.docker.com/engine/install/linux-postinstall/))
 	- Docker [stepik course](https://stepik.org/course/74010)
 	- Упаковка своего проекта в контейнер
 
